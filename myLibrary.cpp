@@ -70,7 +70,7 @@ int main()
     books[1].setBookDetails("T2", "A2", "I00002", true, "2020-03-19");
     books[2].setBookDetails("T3", "A3", "I00003", true, "2019-07-23");
     books[3].setBookDetails("T4", "A4", "I00004", true, "2010-11-03");
-    books[4].setBookDetails("T5", "A5", "I00605", true, "2013-03-11");
+    books[4].setBookDetails("T5", "A5", "I00005", true, "2013-03-11");
 
     Book::sortBookData(books, size);
 
